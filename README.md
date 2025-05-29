@@ -1,2 +1,3 @@
 # practice-git
-Practice Git
+
+This git repository is used to practice Git.
